@@ -6,5 +6,6 @@ A plugin for Flutter apps that adds barcode scanning support on both Android and
 
 ![Demo gif](https://github.com/AmolGangadhare/MyProfileRepo/blob/master/flutter_barcode_scanning_demo.gif "Demo")
 
-- scan barcode and conectit with API
+- scan barcode and conectit with API 
+- to show data of barcode
 
